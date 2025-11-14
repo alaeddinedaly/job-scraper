@@ -1,0 +1,9 @@
+2025-11-13 23:02:03 | INFO     | main:lifespan - 🚀 Starting AutoJobApply API...
+2025-11-13 23:02:03 | INFO     | main:lifespan - ✅ Database initialized
+2025-11-13 23:02:23 | INFO     | routers.resume:upload_resume - Resume uploaded: Resume_en.pdf
+2025-11-13 23:02:23 | INFO     | routers.resume:upload_resume - Resume parsed successfully
+2025-11-13 23:02:30 | INFO     | routers.jobs:search_jobs - Searching jobs with keywords: ['Software Engineer', 'Full Stack Developer', 'Backend Developer', 'Frontend Developer', 'Java Developer']
+2025-11-13 23:02:30 | INFO     | routers.jobs:search_jobs - Searching multiple job sources...
+2025-11-13 23:31:33 | INFO     | routers.jobs:search_jobs - Found 2206 total jobs
+2025-11-13 23:35:38 | INFO     | routers.jobs:search_jobs - After filtering: 2155 jobs (min score: 10.0)
+2025-11-13 23:35:43 | INFO     | main:lifespan - 👋 Shutting down AutoJobApply API

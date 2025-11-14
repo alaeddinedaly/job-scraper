@@ -1,0 +1,13 @@
+2025-11-13 16:05:28 | INFO     | main:lifespan - 🚀 Starting AutoJobApply API...
+2025-11-13 16:05:28 | INFO     | main:lifespan - ✅ Database initialized
+2025-11-13 16:06:00 | INFO     | routers.resume:upload_resume - Resume uploaded: Resume_en.pdf
+2025-11-13 16:06:00 | INFO     | routers.resume:upload_resume - Resume parsed successfully
+2025-11-13 16:06:21 | INFO     | routers.jobs:search_jobs - Searching jobs with keywords: ['Junior Developer', 'Software Engineer', 'Full Stack']
+2025-11-13 16:06:21 | INFO     | routers.jobs:search_jobs - Searching multiple job sources...
+2025-11-13 16:06:29 | INFO     | routers.jobs:search_jobs - Found 24 total jobs
+2025-11-13 16:06:32 | INFO     | routers.jobs:search_jobs - After filtering: 13 quality matches
+2025-11-13 16:08:54 | INFO     | routers.jobs:search_jobs - Searching jobs with keywords: ['Internship java']
+2025-11-13 16:08:54 | INFO     | routers.jobs:search_jobs - Searching multiple job sources...
+2025-11-13 16:09:01 | INFO     | routers.jobs:search_jobs - Found 15 total jobs
+2025-11-13 16:09:02 | INFO     | routers.jobs:search_jobs - After filtering: 5 quality matches
+2025-11-13 16:12:48 | INFO     | main:lifespan - 👋 Shutting down AutoJobApply API

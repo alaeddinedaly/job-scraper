@@ -1,0 +1,27 @@
+### PYTHON ###
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.py[cod]
+backend/*.pyo
+backend/.env
+
+# SQLite or other local DB files (if you use them)
+backend/*.sqlite3
+backend/*.db
+
+### Node / Frontend ###
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+### OS / Editor crap ###
+.DS_Store
+Thumbs.db
+
+### IDE ###
+.vscode/
+.idea/
